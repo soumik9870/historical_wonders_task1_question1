@@ -26,6 +26,7 @@ section.place {
     margin: 20px;
     padding: 20px;
     display: flex;
+    box-shadow: 2px 5px 10px  #eee5e5;
     opacity: 90%;
     transition: opacity ease-out 0.5s;
     transition: transform ease-in 0.4s;
