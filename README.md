@@ -1,6 +1,6 @@
 Historical Wonders
 
-A static webpage showcasing the three most beautyful wonders of the world.
+A static webpage showcasing the three most beautiful historical monuments of the world.
 
 TECHNOLOGY USED:
   1. HTML5.
